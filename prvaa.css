@@ -1,0 +1,50 @@
+body{
+    background: wheat;
+}
+.conntent{
+    width: 800px;
+    height: auto;
+    margin: auto;
+    background: repeat-y;
+    background: url("b.jpg");
+    margin-top: -20px;
+}
+
+.ime h1{
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.ime h3{
+    padding-left: 30px;
+    margin-top: -10px;
+}
+.about, .veshtini{
+    width: 400px;
+    padding-left: 15px;
+    display: inline-block;
+}
+.slika{
+    float: right;
+    margin-top: -245px;
+    margin-right: 10px;
+}
+.rabota, .contakt{
+    padding-left: 15px;
+}
+a{
+    text-decoration: none;
+    color: darkblue;
+}
+h2{
+    font-weight: revert;
+}
+p{
+    size: 18px;
+}
+.contakt a{
+    size: 25px;
+    color: #ab2649;
+}
+.contakt {
+    padding-bottom: 5px;
+}
